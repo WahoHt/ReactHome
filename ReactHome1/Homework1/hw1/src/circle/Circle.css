@@ -1,0 +1,11 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    background: #848586;
+    border-radius: 50%;
+    transition: transform 1.5s linear;
+}
+
+.circle:hover {
+    transform: translateX(720px);
+}
