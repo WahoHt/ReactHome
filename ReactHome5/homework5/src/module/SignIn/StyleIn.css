@@ -1,0 +1,39 @@
+.formUp{
+    width: 250px;
+    height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    background-color: orange;
+    border-radius: 10px;
+    text-align: center;
+}
+
+span{
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    font-size: 25px;
+    color: rgb(101,88,130)
+}
+
+input {
+    display: block;
+    width: 80%;
+    padding: 0 20px;
+    margin: 15px 5px 10px;
+    border-width: 0;
+    line-height: 40px;
+    border-radius: 20px;
+    color: black;
+    background: #E9EFF6;
+    font-family: 'Roboto', sans-serif;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    background: #f69a73;
+    color: white;
+    font-size: 14px;
+    border-radius: 10px;
+}
